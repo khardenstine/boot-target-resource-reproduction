@@ -1,0 +1,11 @@
+{
+  "description": "someapp",
+  "repository": "https://github.com/khardenstine/boot-target-resource-reproduction",
+  "dependencies": {
+    "base-64": "0.1.0",
+    "bluebird": "3.3.4",
+    "express": "^4.15.2",
+    "express-winston": "^1.4.2",
+    "winston": "^2.3.1"
+  }
+}
